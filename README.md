@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on all things CS related!
 - 📫 You can reach me at nikhilnarra@vt.edu
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/nkhlfromthe503?theme=light&font=Simonetta)
+![LeetCode Stats](https://leetcard.jacoblin.cool/nkhlfromthe503?theme=dark&font=Abel&ext=heatmap)
 
 <!---
 niknarra/niknarra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
