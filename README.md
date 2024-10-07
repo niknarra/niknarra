@@ -5,6 +5,14 @@
 - 📫 You can reach me at nikhilnarra@vt.edu
 
 
+
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=niknarra&theme=tokyonight&hide_border=false)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilnarra) 
+
+
 [![](https://visitcount.itsvg.in/api?id=niknarra&label=Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!---
