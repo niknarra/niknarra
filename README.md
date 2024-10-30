@@ -1,12 +1,11 @@
-- 👋 Hi, I’m Nikhil.
-- 👀 I’m interested in Software Development and research.
-- 🌱 I’m currently pursuing a Master's degree in Computer Science & Applications.
-- 💞️ I’m looking to collaborate on all things CS related!
-- 📫 You can reach me at nikhilnarra@vt.edu
+# 👋 Hi, I’m Nikhil Narra
 
-### 💻 Currently Working With
+I’m a passionate software developer and researcher, currently pursuing a Master's degree in Computer Science & Applications. I enjoy building software solutions and contributing to the world of open source. Let’s collaborate on anything related to Computer Science!  
+📫 You can reach me at: **nikhilnarra@vt.edu**
 
-## Languages & Frameworks
+---
+
+## 💻 Technologies & Tools
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -40,33 +39,37 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-## 🛠️ Tools & Platforms
-
 ### Development Tools
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-### Web & Graphics
+### Design & Graphics
 ![X3D](https://img.shields.io/badge/X3D-%23F55343.svg?style=for-the-badge&logo=x3d&logoColor=white)
 ![X3DOM](https://img.shields.io/badge/X3DOM-%231E90FF.svg?style=for-the-badge&logo=x3dom&logoColor=white)
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
-![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) 
-
-### Design Tools
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)  
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
-## 📝 Miscellaneous
+---
 
-### Markup & Documentation
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+## 🛠️ Contributions & Open Source Projects
+Here are some areas I’m actively working on or have contributed to in the open-source community:
+
+- **NPM Packages** - Publishing and maintaining JavaScript and TypeScript packages ([My NPM Profile](https://www.npmjs.com/~niknarra))
+
+- **Bug Fixes & Feature Enhancements** - Actively participating in open-source projects for frameworks and libraries
+- **Documentation** - Enhancing readability and usability of open-source docs
+
+Feel free to check out my repositories to see my latest contributions!
 
 ---
 
-## 🌱 In My Learning List:
+## 🌱 Learning Journey
+
+I'm currently exploring and building skills in:
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -74,16 +77,23 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 
-## 📊 GitHub Stats:
+---
+
+## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niknarra&theme=tokyonight&hide_border=false)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilnarra) 
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilnarra)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 [![](https://visitcount.itsvg.in/api?id=niknarra&label=Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 <!---
 niknarra/niknarra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
