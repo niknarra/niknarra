@@ -80,7 +80,12 @@ I'm currently exploring and building skills in:
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=niknarra&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://git-hub-streak-stats.vercel.app?user=niknarra&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
 
 ---
 
@@ -90,9 +95,17 @@ I'm currently exploring and building skills in:
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=niknarra&label=Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+<div align="right">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=niknarra&label=Views&color=10&icon=5&pretty=true" alt="Visit Count" />
+  </a>
+</div>
+
 
 
 <!---
