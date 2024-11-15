@@ -102,7 +102,7 @@ I'm currently exploring and building skills in:
 
 <div align="right">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=niknarra&label=Views&color=10&icon=5&pretty=true" alt="Visit Count" />
+    <img src="https://visitcount.itsvg.in/api?id=niknarra&label=Profile%20Views&color=10&icon=5&pretty=true" alt="Visit Count" />
   </a>
 </div>
 
