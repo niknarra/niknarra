@@ -80,7 +80,7 @@ I'm currently exploring and building skills in:
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=niknarra&theme=tokyonight&hide_border=false)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=niknarra&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
