@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nikhil Narra
 
-Software developer and open source contributor. M.S. in Computer Science & Applications — Virginia Tech, Dec 2024. Active contributor to X3D, npm, and a handful of other things — with projects always in progress.                                                          
+Software developer and open source contributor. M.S. in Computer Science & Applications — Virginia Tech, Dec 2024. Active contributor to X3D, npm, and a handful of other things — with projects always in progress.
 
 📫 nikhilnarra@vt.edu
 
