@@ -52,14 +52,10 @@ Software developer and open source contributor. M.S. in Computer Science & Appli
 ---
 
 ## 🛠️ Contributions & Open Source Projects
-Here are some areas I’m actively working on or have contributed to in the open-source community:
 
-- **NPM Packages** - Publishing and maintaining JavaScript and TypeScript packages ([My NPM Profile](https://www.npmjs.com/~niknarra))
-
-- **Bug Fixes & Feature Enhancements** - Actively participating in open-source projects for frameworks and libraries
-- **Documentation** - Enhancing readability and usability of open-source docs
-
-Feel free to check out my repositories to see my latest contributions!
+- **X3D** — Active contributor to the X3D specification and related tooling
+- **NPM Packages** — Publishing and maintaining JavaScript and TypeScript packages ([My NPM Profile](https://www.npmjs.com/~niknarra))
+- **Bug Fixes & Feature Enhancements** — Ongoing contributions to open-source frameworks and libraries
 
 ---
 
