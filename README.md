@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Nikhil Narra
 
-I’m a passionate software developer and researcher, currently pursuing a Master's degree in Computer Science & Applications. I enjoy building software solutions and contributing to the world of open source. Let’s collaborate on anything related to Computer Science!  
-📫 You can reach me at: **nikhilnarra@vt.edu**
+Software developer and open source contributor. M.S. in Computer Science & Applications — Virginia Tech, Dec 2024. Active contributor to X3D, npm, and a handful of other things — with projects always in progress.                                                          
+
+📫 nikhilnarra@vt.edu
 
 ---
 
