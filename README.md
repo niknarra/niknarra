@@ -69,15 +69,9 @@ Software developer and open source contributor. M.S. in Computer Science & Appli
 
 ---
 
-## 🌱 Learning Journey
+## 🔍 Currently Exploring
 
-I'm currently exploring and building skills in:
-
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+I believe the real opportunity in AI right now isn't in building better models — it's in how we use them. Currently focused on exploring LLM memory, context management, and token optimization to get more out of large language models at the application layer. Alongside this, continuing to expand my backend development toolset.
 
 ---
 
