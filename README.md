@@ -90,12 +90,6 @@ I believe the real opportunity in AI right now isn't in building better models �
 
 ---
 
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-
 <div align="right">
     <a href="https://visitcount.itsvg.in">
         <img src="https://visitcount.itsvg.in/api?id=niknarra&label=Profile%20Views&color=10&icon=5&pretty=true" />
