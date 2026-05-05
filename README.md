@@ -59,6 +59,16 @@ Software developer and open source contributor. M.S. in Computer Science & Appli
 
 ---
 
+## 📄 Publications
+
+- **[A Generalized Web3D API for Metaverse Bookmarks](https://dl.acm.org/doi/10.1145/3746237.3746311)** — Web3D 2025
+  A schema and API for a Web3D bookmarking system enabling interoperable sharing of precise, user-generated 3D scene contexts.
+
+- **[X3Test: A Headless Browser-Based Framework for Automated Performance Benchmarking of X3D/X3DOM Scenes](https://dl.acm.org/doi/10.1145/3746237.3746315)** — Web3D 2025 · 🏆 3rd Place, Web3D Tools Competition
+  An automated testing and performance benchmarking framework for X3D scenes on the web.
+
+---
+
 ## 🌱 Learning Journey
 
 I'm currently exploring and building skills in:
@@ -93,9 +103,9 @@ I'm currently exploring and building skills in:
 
 
 <div align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=niknarra&label=Profile%20Views&color=10&icon=5&pretty=true" alt="Visit Count" />
-  </a>
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=niknarra&label=Profile%20Views&color=10&icon=5&pretty=true" />
+    </a>
 </div>
 
 
